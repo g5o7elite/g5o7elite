@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**g5o7elite/g5o7elite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Henrycee George Ofia 👋
 
-Here are some ideas to get you started:
+I am a developer combining mobile software engineering with hardware systems design, focusing on practical tools for academic and real-world workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📱 Software Development
+* 🚀 Currently building **Archiva**, a digital library platform for university students to catalog and search academic materials.
+* 💻 Core Stack: **Flutter**, **Dart**
+
+### ⚡ Hardware & Embedded Systems
+* 🌱 **SmartGrow Agricultural Monitor:** Arduino-based monitoring device integrating soil moisture, temperature, light, and EC sensors.
+* 💨 **Automated Control Circuits:** Engineered a mist fan control circuit using Arduino Uno, SIM800L GSM, DHT22 sensor, and relay switching.
+* ⚙️ Core Stack: **Arduino (C++)**, **Circuit Design**, **IoT**
+
+### 🖥️ Infrastructure
+* 🐧 Configured and deployed a Debian-based Koha library server for local network practicals.
